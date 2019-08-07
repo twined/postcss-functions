@@ -1,3 +1,6 @@
+# 4.0.0 - 2019-08-07
+* Update dependencies
+
 # 3.0.0 - 2017-08-13
 * Rewrite in ES6.
 * Add Babel.
